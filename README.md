@@ -1,4 +1,10 @@
-# Çocuklar İçin Uçak İçi Kart Bazlı Eğitim ve Eğlence Sistemi
+<p align="center" >
+ <h1>Çocuklar İçin Uçak İçi Kart Bazlı Eğitim ve Eğlence Sistemi</h1> 
+  </p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/d290d2e0-0723-4084-b4e7-b994bb2ad599">
+</p>
+
 ## Özet
 Bu proje, uçak yolculuklarında çocukların eğlenceli ve eğitici vakit geçirmelerini sağlamak amacıyla kart bazlı bir eğitim ve eğlence sistemi geliştirmeyi amaçlamaktadır. Sistem, düşük maliyetli ve çevre dostu fiziksel kartları kullanarak çocuklara problem çözme, görsel zekâ, mantık ve genel kültür konularında içerikler sunar. Eğlence ve eğitimi birleştiren bu çözüm, çocukların dikkatini çekerek uzun uçuşlarda zamanın daha verimli geçmesine yardımcı olur. Havayolu şirketlerinin müşteri bağlılığını artırarak, aile dostu bir marka imajı oluşturmasına katkı sağlamayı hedeflemektedir.
 ________________________________________
