@@ -77,3 +77,113 @@
 .add form .button label{
    background-color: rgb(255, 231, 159);
 }
+
+.add {
+   max-width: 600px;
+   margin: 20px auto;
+   padding: 20px;
+   background: #f8f9fa;
+   border-radius: 8px;
+   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.contact-form {
+   display: flex;
+   flex-direction: column;
+}
+
+.form-group {
+   margin-bottom: 15px;
+}
+
+.form-group label {
+   display: block;
+   margin-bottom: 5px;
+   font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+   width: 100%;
+   padding: 10px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+}
+
+.form-group textarea {
+   height: 120px;
+   resize: none;
+}
+
+.submit-button {
+   background-color: #0056b3;
+   color: white;
+   border: none;
+   padding: 10px 20px;
+   border-radius: 4px;
+   cursor: pointer;
+   transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+   background-color: #004085;
+}
+.add {
+   width: 100%;
+   height: calc(100vh - 50px);
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.add h1 {
+   margin-bottom: 20px; /* Başlık ile form arasındaki mesafeyi ayarlar */
+   text-align: center; /* Başlığı ortalar */
+   font-size: 2rem; /* Font boyutunu büyütür */
+   width: 100%; /* Genişliği parent container'a uydurur */
+}
+
+.contact-form {
+   background-color: rgba(255, 255, 255, 0.9);
+   padding: 20px;
+   border-radius: 10px;
+   width: 90%;
+   max-width: 500px;
+   box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+   display: flex;
+   flex-direction: column;
+}
+
+.form-group {
+   width: 100%; /* Tüm form elemanlarının genişliğini parent container'a uyarlar */
+   margin-bottom: 15px; /* Form elemanları arasındaki mesafeyi ayarlar */
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+   width: 100%; /* Input alanlarının genişliğini artırır */
+   padding: 10px;
+   border-radius: 5px;
+   border: 1px solid #ccc;
+   box-sizing: border-box; /* Border ve padding dahil genişliği hesaplar */
+}
+
+.form-group textarea {
+   height: 150px; /* Textarea yüksekliğini artırır */
+}
+
+.submit-button {
+   padding: 10px 20px;
+   background-color: #0056b3;
+   color: white;
+   border-radius: 5px;
+   border: none;
+   cursor: pointer;
+}
+
+.submit-button:hover {
+   background-color: #004085; /* Hover durumunda butonun rengini değiştirir */
+}
