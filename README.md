@@ -55,3 +55,6 @@ ________________________________________
 •	Zayıf Yönleri Azalt: Kartlar düzenli olarak yenilenmeli ve dayanıklı malzemelerden üretilmelidir.
 •	Fırsatları Değerlendir: Destinasyona özgü içerikler ve ödül programları entegre edilmelidir.
 •	Tehditleri Yönet: Hijyen sorunlarına karşı sterilizasyon süreçleri geliştirilmelidir.
+
+
+https://yucellgull.github.io/AR_application/
